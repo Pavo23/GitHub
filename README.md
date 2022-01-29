@@ -29,5 +29,5 @@ git commit -am "This is a commit message"
 2. Leave a comment if you have any problems
 
 - [x] I did this
-- [] Still have to do this
+- [ ] Still have to do this
 
